@@ -1,7 +1,8 @@
 🌍 Global Healthy Diet Cost Analysis (2017–2024)
+
 📌 Overview
 
-This project analyzes how the cost of a healthy diet has changed globally from 2017 to 2024. The goal is to understand trends in food affordability, regional inequality, and countries facing rising or unstable diet costs.
+  This project analyzes how the cost of a healthy diet has changed globally from 2017 to 2024. The goal is to understand trends in food affordability, regional inequality, and countries facing rising or unstable    diet costs.
 
 🎯 Objectives
 
