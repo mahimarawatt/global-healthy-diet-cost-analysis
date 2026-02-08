@@ -6,7 +6,7 @@
 
 🎯 Objectives
 
-*Track global trends in healthy diet costs
+* Track global trends in healthy diet costs
 
 *Compare affordability across regions
 
