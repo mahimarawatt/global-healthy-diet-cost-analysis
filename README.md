@@ -6,25 +6,25 @@
 
 🎯 Objectives
 
-Track global trends in healthy diet costs
+*Track global trends in healthy diet costs
 
-Compare affordability across regions
+*Compare affordability across regions
 
-Identify countries with rapidly rising costs
+*Identify countries with rapidly rising costs
 
-Detect volatility and long-term high-cost risks
+*Detect volatility and long-term high-cost risks
 
 📊 Key Findings
 
-Healthy diet costs have steadily increased worldwide
+*Healthy diet costs have steadily increased worldwide
 
-Strong regional disparities exist in affordability
+*Strong regional disparities exist in affordability
 
-Some countries show rapid cost growth and high instability
+*Some countries show rapid cost growth and high instability
 
-A subset of countries remain persistently high-cost
+*A subset of countries remain persistently high-cost
 
-Fruit and vegetable prices contribute but do not fully explain total diet costs
+*Fruit and vegetable prices contribute but do not fully explain total diet costs
 
 🛠 Tools Used
 
